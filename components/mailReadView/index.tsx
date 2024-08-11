@@ -6,7 +6,7 @@ import { Dimensions } from 'react-native';
 export default function MailReadView(){
     return(
         <>
-            <Text>Hyy</Text>
+            <Text>Hey</Text>
         </>
     )
 }
