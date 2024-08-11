@@ -80,7 +80,7 @@ export default function MainPage({ navigation }) {
              <Icon name="camera" size={15} color="#000" />
        </View>
        <View style={{position:'absolute',left:85,top:38,width:viewWidth,height:viewHeight}}>
-         <Text>Dinil Damsith</Text>
+         <Text>Chathurangi</Text>
          <Text>dinildamsith52@gmail.com</Text>
          <Text style={{position:'absolute',right:110,top:22}}>40</Text>
          <Pressable style={{backgroundColor:'white',width:220,height:40,borderRadius:10,marginTop:20,borderWidth:1,borderColor:'black'}}>
