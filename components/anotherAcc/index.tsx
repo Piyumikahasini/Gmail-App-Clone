@@ -12,7 +12,7 @@ export default function AnotherAcc(){
        <View style={{position:'absolute',left:85,top:35,width:viewWidth,height:viewHeight}}>
          <Text>Chathurangi</Text>
          <Text>chathurangi@gmail.com</Text>
-         <Text style={{position:'absolute',right:110,top:22}}>40</Text>
+         <Text style={{position:'absolute',right:110,top:22}}>30</Text>
        </View>
         </View>
 
